@@ -1,0 +1,45 @@
+Conta Poupanca
+
+Nome do Titular
+Agencia
+Numero da Conta
+Rendimento
+Valor Liberado para Emprestimo
+saldo
+
+
+
+
+Agencia
+
+Codigo da agencia
+Bairro
+Cep
+Rua
+Numero da Localizacao
+cidade
+caixa
+estado
+
+
+
+
+Cartao de credito
+
+Nome do Titular
+Limite
+saldo
+fatura
+cvv
+data de validade
+
+
+
+
+Cartao de debito
+
+Nome do titular
+Numero
+cvv
+data de validade
+
