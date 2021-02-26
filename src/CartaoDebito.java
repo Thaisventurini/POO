@@ -6,5 +6,5 @@ public class CartaoDebito {
     int numero;
     int cvv;
     Date dataValidade;
-    
+
 }

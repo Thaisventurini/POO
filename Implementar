@@ -1,45 +1,35 @@
+Conta Corrente
+
+Emitir Extrato
+Sacar
+EmitirBoletos
+
+
+
 Conta Poupanca
 
-Nome do Titular
-Agencia
-Numero da Conta
-Rendimento
-Valor Liberado para Emprestimo
-saldo
-
+Emitir Extrato
+Sacar
 
 
 
 Agencia
 
-Codigo da agencia
-Bairro
-Cep
-Rua
-Numero da Localizacao
-cidade
-caixa
-estado
-
+CadastrarCliente
 
 
 
 Cartao de credito
 
-Nome do Titular
-Limite
-saldo
-fatura
-cvv
-data de validade
-
+PagarFatura
+Sacar
+Cancelar
+Desbloquear
 
 
 
 Cartao de debito
 
-Nome do titular
-Numero
-cvv
-data de validade
-
+Sacar
+Cancelar
+Desbloquear
