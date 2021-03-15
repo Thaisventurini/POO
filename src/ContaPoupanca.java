@@ -1,11 +1,6 @@
-public class ContaPoupanca {
+public class ContaPoupanca extends Conta{
 
-    String nomeTitular;
-    int agencia;
-    int numeroConta;
     double rendimento;
     double valorLiberadoEmprestimo;
-    double saldo;
-
 
 }

@@ -6,5 +6,16 @@ public class CartaoDebito {
     int numero;
     int cvv;
     Date dataValidade;
+    String status;
+
+    public String desloquear(){
+        status = "ATIVO";
+        return "Cartão desloqueado com sucesso";
+    }
+
+    public String cancelar(){
+        status = "CANCELADO";
+        return "Cartão cancelado com sucesso";
+    }
 
 }
