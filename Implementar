@@ -1,4 +1,4 @@
-Conta Corrente
+model.Conta Corrente
 
 Emitir Extrato
 Sacar
@@ -6,14 +6,14 @@ EmitirBoletos
 
 
 
-Conta Poupanca
+model.Conta Poupanca
 
 Emitir Extrato
 Sacar
 
 
 
-Agencia
+model.Agencia
 
 CadastrarCliente
 
@@ -32,3 +32,61 @@ Cartao de debito
 
 Cancelar
 Desbloquear
+
+15/03/2021
+
+Conceito de MVC
+
+M - Model - Responsável pela manipulação dos dados, modelando objetos do mundo real para o mundo computacional e também validações.
+
+V - View - Tudo que interage com o usuário
+
+C - Controller - Responsável por transformar as entradas de informações do usuário para o sistema.
+
+Modificadores de acesso no Java
+
+PUBLIC
+PRIVATE
+PROTECTED
+DEFAULT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

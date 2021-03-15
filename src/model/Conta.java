@@ -1,11 +1,13 @@
+package model;
+
 public class Conta {
 
-    int agencia;
-    int numeroConta;
-    String nomeTitular;
-    String cpfTitular;
-    double saldo;
-    String dataNascimentoTitular;
+    public int agencia;
+    public int numeroConta;
+    public String nomeTitular;
+    public String cpfTitular;
+    public double saldo;
+    public String dataNascimentoTitular;
 
     public String emitirExtrato(){
         return "Vazio";
